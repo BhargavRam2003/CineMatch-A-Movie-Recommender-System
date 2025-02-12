@@ -64,8 +64,7 @@ Expand the database to include more movies and genres.
 
 Deploy on Heroku or AWS for online access.
 
-📜 **License
-**
+📜 **License**
 
 This project is licensed under the MIT License.
 
