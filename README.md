@@ -28,7 +28,7 @@ Database: CSV-based dataset of movies
 1️⃣ **Clone the Repository**
 
 
-git clone https://github.com/yourusername/CineMatch.git
+git clone https://github.com/ram/CineMatch.git
 cd CineMatch
 
 2️⃣ **Install Dependencies**
